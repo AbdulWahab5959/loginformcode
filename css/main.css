@@ -1,0 +1,45 @@
+@media (max-width: 767px) {
+   .backgroundcolor {
+       height: 35vh !important; /* Override height for smaller screens */
+      }
+      .bg-black
+      {
+         height: 0vh !important; /* Override height for smaller screens */
+      }
+      .text-setting1{
+         margin-top: 20% !important;
+      }
+      .text-setting{
+         margin-top: 20% !important;
+      }
+}
+
+body
+{
+   background-color: black;
+   margin: 0%;
+   padding: 0%;
+}
+.text-setting {
+   margin-top: 35%;
+}
+.text-setting1 {
+   margin-top: 30%;
+}
+.h1{
+   font-weight: 700;
+   color: #d391ff;
+}
+.h2{
+   font-weight: 700;
+   color: #d391ff;
+}
+
+.backgroundcolor{
+   background-color:#00002e ;
+   
+}
+.form-submit{
+   color: white;
+   background-color: #3c46ff;
+}
